@@ -1,0 +1,33 @@
+Peter Z skills
+
+I have been working eBizDocs in a help desk support role since March of 2022. 
+I am responsible for supporting staff with technical issues and maintaining internal hardware appliances. 
+In my spare time, I enjoy programming inside of Unity and creating my own video games.
+
+I am a dedicated helpdesk professional currently providing technical support in a 100+ user environment. 
+Skilled problem-solver able to communicate with users of all levels of technical proficency and deliver top notch customer support.
+Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
+Professional experience with aspects of the administration and monitoring of TCP/IP based LAN/WAN networks, switches and servers.
+Skilled in aligning end user needs with long term resolutions to complex IT challenges.
+
+
+Expertise:
+- Technical Troubleshooting
+- End User Training & Account Maintenance
+- System Upgrades & Optimization
+- Security, Backup & Recovery Solutions
+- Technical & User Documentation
+- IT Infrastructure & Performance Training
+
+
+
+Experience working with Windows, Linux, MacOS. 
+Setup Servers and switches, experience with esxi (VMware)
+
+
+I have professional experience with:
+- Networking & Vlans
+- VOIP setup & administration
+- Firewall setup
+- Software Installation & Troubleshooting 
+- Helpdesk ticketing system software
